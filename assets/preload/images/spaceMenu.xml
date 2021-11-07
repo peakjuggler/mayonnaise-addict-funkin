@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spaceMenu.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Space?0000" x="10" y="10" width="1291" height="733"/>
+	<SubTexture name="Space?0001" x="1311" y="10" width="1291" height="733"/>
+	<SubTexture name="Space?0002" x="2612" y="10" width="1291" height="733"/>
+	<SubTexture name="Space?0003" x="10" y="753" width="1291" height="733"/>
+	<SubTexture name="Space?0004" x="1311" y="753" width="1291" height="733"/>
+	<SubTexture name="Space?0005" x="2612" y="753" width="1291" height="733"/>
+	<SubTexture name="Space?0006" x="10" y="1496" width="1291" height="733"/>
+	<SubTexture name="Space?0007" x="1311" y="1496" width="1291" height="733"/>
+	<SubTexture name="Space?0008" x="2612" y="1496" width="1291" height="733"/>
+	<SubTexture name="Space?0009" x="10" y="2239" width="1291" height="733"/>
+	<SubTexture name="Space?0010" x="1311" y="2239" width="1291" height="733"/>
+	<SubTexture name="Space?0011" x="2612" y="2239" width="1291" height="733"/>
+	<SubTexture name="Space?0012" x="10" y="2982" width="1291" height="733"/>
+	<SubTexture name="Space?0013" x="1311" y="2982" width="1291" height="733"/>
+</TextureAtlas>

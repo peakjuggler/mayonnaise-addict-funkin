@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ethenOutline.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle Dance0000" x="10" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0001" x="10" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0002" x="423" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0003" x="423" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0004" x="836" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0005" x="836" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0006" x="1249" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0007" x="1249" y="10" width="403" height="501"/>
+	<SubTexture name="Idle Dance0008" x="10" y="521" width="403" height="501"/>
+	<SubTexture name="Idle Dance0009" x="10" y="521" width="403" height="501"/>
+	<SubTexture name="Idle Dance0010" x="10" y="521" width="403" height="501"/>
+	<SubTexture name="Idle Dance0011" x="10" y="521" width="403" height="501"/>
+	<SubTexture name="Idle Dance0012" x="423" y="521" width="403" height="501"/>
+	<SubTexture name="Idle Dance0013" x="423" y="521" width="403" height="501"/>
+</TextureAtlas>
