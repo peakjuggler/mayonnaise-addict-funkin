@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="advertSpook.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Encore Admachine Easter Egg0000" x="0" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0001" x="0" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0002" x="1350" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0003" x="1350" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0004" x="2700" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0005" x="2700" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0006" x="0" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0007" x="0" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0008" x="1350" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0009" x="1350" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0010" x="2700" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0011" x="2700" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0012" x="0" y="1888" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine Easter Egg0013" x="0" y="1888" width="1350" height="944"/>
+</TextureAtlas>

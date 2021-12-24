@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="advertSex.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Black Hole Ad Float0000" x="0" y="0" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0001" x="0" y="0" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0002" x="1381" y="0" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0003" x="1381" y="0" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0004" x="0" y="973" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0005" x="0" y="973" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0006" x="1381" y="973" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0007" x="1381" y="973" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0008" x="0" y="1946" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0009" x="0" y="1946" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0010" x="1381" y="1946" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0011" x="1381" y="1946" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0012" x="0" y="2919" width="1381" height="973"/>
+	<SubTexture name="Black Hole Ad Float0013" x="0" y="2919" width="1381" height="973"/>
+</TextureAtlas>

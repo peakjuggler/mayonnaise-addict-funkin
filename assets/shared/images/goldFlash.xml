@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldFlash.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gold Flash0000" x="10" y="10" width="194" height="156"/>
+	<SubTexture name="Gold Flash0001" x="204" y="10" width="194" height="156"/>
+	<SubTexture name="Gold Flash0002" x="398" y="10" width="194" height="156"/>
+	<SubTexture name="Gold Flash0003" x="592" y="10" width="194" height="156"/>
+	<SubTexture name="Gold Flash0004" x="786" y="10" width="194" height="156"/>
+	<SubTexture name="Gold Flash0005" x="10" y="166" width="194" height="156"/>
+	<SubTexture name="Gold Flash0006" x="204" y="166" width="194" height="156"/>
+	<SubTexture name="Gold Portal0000" x="398" y="166" width="163" height="45"/>
+	<SubTexture name="Gold Portal0001" x="561" y="166" width="163" height="45"/>
+	<SubTexture name="Gold Portal0002" x="724" y="166" width="163" height="45"/>
+	<SubTexture name="Gold Portal0003" x="10" y="322" width="163" height="45"/>
+	<SubTexture name="Gold Portal0004" x="173" y="322" width="163" height="45"/>
+	<SubTexture name="Gold Portal0005" x="336" y="322" width="163" height="45"/>
+	<SubTexture name="Gold Portal0006" x="499" y="322" width="163" height="45"/>
+</TextureAtlas>

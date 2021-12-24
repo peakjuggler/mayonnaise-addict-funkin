@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthETHENbar.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eef Bar0000" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0001" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0002" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0003" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0004" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0005" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0006" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0007" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0008" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0009" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0010" x="0" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0011" x="653" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0012" x="1306" y="0" width="648" height="70"/>
+	<SubTexture name="Eef Bar0013" x="0" y="75" width="648" height="70"/>
+	<SubTexture name="Eef Bar0014" x="653" y="75" width="648" height="70"/>
+	<SubTexture name="Eef Bar0015" x="1306" y="75" width="648" height="70"/>
+	<SubTexture name="Eef Bar0016" x="0" y="150" width="648" height="70"/>
+	<SubTexture name="Eef Bar0017" x="653" y="150" width="648" height="70"/>
+	<SubTexture name="Eef Bar0018" x="1306" y="150" width="648" height="70"/>
+	<SubTexture name="Eef Bar0019" x="0" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0020" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0021" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0022" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0023" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0024" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0025" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0026" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0027" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0028" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0029" x="653" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0030" x="1306" y="225" width="648" height="70"/>
+	<SubTexture name="Eef Bar0031" x="0" y="300" width="648" height="70"/>
+	<SubTexture name="Eef Bar0032" x="653" y="300" width="648" height="70"/>
+	<SubTexture name="Eef Bar0033" x="1306" y="300" width="648" height="70"/>
+	<SubTexture name="Eef Bar0034" x="0" y="375" width="648" height="70"/>
+	<SubTexture name="Eef Bar0035" x="653" y="375" width="648" height="70"/>
+	<SubTexture name="Eef Bar0036" x="1306" y="375" width="648" height="70"/>
+	<SubTexture name="Eef Bar0037" x="0" y="450" width="648" height="70"/>
+	<SubTexture name="Eef Bar0038" x="653" y="450" width="648" height="70"/>
+	<SubTexture name="Eef Bar0039" x="1306" y="450" width="648" height="70"/>
+</TextureAtlas>

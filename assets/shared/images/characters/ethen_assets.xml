@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ethen_assets.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Back Pose0000" x="0" y="0" width="422" height="461"/>
+	<SubTexture name="Back Pose0001" x="0" y="0" width="422" height="461"/>
+	<SubTexture name="Back Pose0002" x="427" y="0" width="422" height="461"/>
+	<SubTexture name="Back Pose0003" x="427" y="0" width="422" height="461"/>
+	<SubTexture name="Down Pose0000" x="854" y="0" width="443" height="434"/>
+	<SubTexture name="Down Pose0001" x="854" y="0" width="443" height="434"/>
+	<SubTexture name="Down Pose0002" x="1302" y="0" width="443" height="434"/>
+	<SubTexture name="Down Pose0003" x="1302" y="0" width="443" height="434"/>
+	<SubTexture name="Forward Pose 20000" x="1750" y="0" width="446" height="460"/>
+	<SubTexture name="Forward Pose 20001" x="1750" y="0" width="446" height="460"/>
+	<SubTexture name="Forward Pose 20002" x="2201" y="0" width="446" height="460"/>
+	<SubTexture name="Forward Pose 20003" x="2201" y="0" width="446" height="460"/>
+	<SubTexture name="Idle Dance0000" x="2652" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0001" x="2652" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0002" x="3046" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0003" x="3046" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0004" x="3440" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0005" x="3440" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0006" x="3834" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0007" x="3834" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0008" x="4228" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0009" x="4228" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0010" x="4228" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0011" x="4228" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0012" x="4622" y="0" width="389" height="483"/>
+	<SubTexture name="Idle Dance0013" x="4622" y="0" width="389" height="483"/>
+	<SubTexture name="The Snap 20000" x="5016" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20001" x="5016" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20002" x="5876" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20003" x="5876" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20004" x="6736" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20005" x="6736" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20006" x="0" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20007" x="0" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20008" x="860" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20009" x="860" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20010" x="1720" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20011" x="1720" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20012" x="2580" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20013" x="2580" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20014" x="5876" y="0" width="855" height="524"/>
+	<SubTexture name="The Snap 20015" x="3440" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20016" x="4300" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20017" x="5160" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20018" x="6020" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20019" x="6880" y="529" width="855" height="524"/>
+	<SubTexture name="The Snap 20020" x="0" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20021" x="860" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20022" x="1720" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20023" x="2580" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20024" x="3440" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20025" x="4300" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20026" x="5160" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20027" x="6020" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20028" x="6880" y="1058" width="855" height="524"/>
+	<SubTexture name="The Snap 20029" x="0" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20030" x="860" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20031" x="1720" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20032" x="2580" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20033" x="2580" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20034" x="3440" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20035" x="4300" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20036" x="5160" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20037" x="6020" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20038" x="6880" y="1587" width="855" height="524"/>
+	<SubTexture name="The Snap 20039" x="0" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20040" x="860" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20041" x="1720" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20042" x="2580" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20043" x="3440" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20044" x="4300" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20045" x="5160" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20046" x="6020" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20047" x="6880" y="2116" width="855" height="524"/>
+	<SubTexture name="The Snap 20048" x="0" y="2645" width="855" height="524"/>
+	<SubTexture name="The Snap 20049" x="860" y="2645" width="855" height="524"/>
+	<SubTexture name="Up Pose 20000" x="1720" y="2645" width="487" height="534"/>
+	<SubTexture name="Up Pose 20001" x="1720" y="2645" width="487" height="534"/>
+	<SubTexture name="Up Pose 20002" x="2212" y="2645" width="487" height="534"/>
+	<SubTexture name="Up Pose 20003" x="2212" y="2645" width="487" height="534"/>
+</TextureAtlas>

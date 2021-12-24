@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="advertStar.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Space Ad Float Starcatcher0000" x="0" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0001" x="1349" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0002" x="2698" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0003" x="4047" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0004" x="5396" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0005" x="6745" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0006" x="0" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0007" x="6745" y="0" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0008" x="1349" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0009" x="2698" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0010" x="4047" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0011" x="5396" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0012" x="6745" y="946" width="1349" height="946"/>
+	<SubTexture name="Space Ad Float Starcatcher0013" x="0" y="1892" width="1349" height="946"/>
+</TextureAtlas>

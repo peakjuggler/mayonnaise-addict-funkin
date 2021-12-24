@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Santa_Eef_Experiment.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Back Pose instance 10000" x="0" y="0" width="489" height="466"/>
+	<SubTexture name="Back Pose instance 10001" x="489" y="0" width="489" height="466"/>
+	<SubTexture name="Back Pose instance 10002" x="978" y="0" width="489" height="466"/>
+	<SubTexture name="Back Pose instance 10003" x="978" y="0" width="489" height="466"/>
+	<SubTexture name="Down Pose instance 10000" x="1467" y="0" width="485" height="469"/>
+	<SubTexture name="Down Pose instance 10001" x="1467" y="0" width="485" height="469"/>
+	<SubTexture name="Down Pose instance 10002" x="0" y="469" width="485" height="469"/>
+	<SubTexture name="Down Pose instance 10003" x="0" y="469" width="485" height="469"/>
+	<SubTexture name="Forward Pose 2 instance 10000" x="485" y="469" width="485" height="493"/>
+	<SubTexture name="Forward Pose 2 instance 10001" x="485" y="469" width="485" height="493"/>
+	<SubTexture name="Forward Pose 2 instance 10002" x="970" y="469" width="485" height="493"/>
+	<SubTexture name="Forward Pose 2 instance 10003" x="970" y="469" width="485" height="493"/>
+	<SubTexture name="Idle Dance instance 10000" x="1455" y="469" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10001" x="1455" y="469" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10002" x="0" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10003" x="0" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10004" x="412" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10005" x="412" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10006" x="824" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10007" x="824" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10008" x="1236" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10009" x="1236" y="962" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10010" x="0" y="1449" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10011" x="0" y="1449" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10012" x="412" y="1449" width="412" height="487"/>
+	<SubTexture name="Idle Dance instance 10013" x="412" y="1449" width="412" height="487"/>
+	<SubTexture name="Up Pose 2 instance 10000" x="824" y="1449" width="478" height="533"/>
+	<SubTexture name="Up Pose 2 instance 10001" x="824" y="1449" width="478" height="533"/>
+	<SubTexture name="Up Pose 2 instance 10002" x="1302" y="1449" width="478" height="533"/>
+	<SubTexture name="Up Pose 2 instance 10003" x="1302" y="1449" width="478" height="533"/>
+</TextureAtlas>

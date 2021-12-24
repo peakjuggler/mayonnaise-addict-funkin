@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Credits.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loop Showcase0000" x="0" y="0" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0001" x="2721" y="0" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0002" x="5442" y="0" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0003" x="0" y="1548" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0004" x="2721" y="1548" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0005" x="5442" y="1548" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0006" x="0" y="3096" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0007" x="2721" y="3096" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0008" x="5442" y="3096" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0009" x="0" y="4644" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0010" x="2721" y="4644" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0011" x="5442" y="4644" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0012" x="2721" y="4644" width="2721" height="1548"/>
+	<SubTexture name="Loop Showcase0013" x="5442" y="4644" width="2721" height="1548"/>
+</TextureAtlas>

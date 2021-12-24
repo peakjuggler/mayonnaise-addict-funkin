@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="advertBounty.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Encore Admachine0000" x="0" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0001" x="1350" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0002" x="2700" y="0" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0003" x="0" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0004" x="1350" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0005" x="2700" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0006" x="0" y="1888" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0007" x="2700" y="944" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0008" x="1350" y="1888" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0009" x="2700" y="1888" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0010" x="0" y="2832" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0011" x="1350" y="2832" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0012" x="2700" y="2832" width="1350" height="944"/>
+	<SubTexture name="Encore Admachine0013" x="2700" y="2832" width="1350" height="944"/>
+</TextureAtlas>
