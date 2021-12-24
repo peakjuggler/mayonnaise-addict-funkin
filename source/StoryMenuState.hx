@@ -25,6 +25,7 @@ using StringTools;
 class StoryMenuState extends MusicBeatState
 {
 	var scoreText:FlxText;
+	var isCutscene:Bool = false;
 
 	var weekData:Array<Dynamic> = [
 		['Tutorial'],
@@ -36,7 +37,7 @@ class StoryMenuState extends MusicBeatState
 
 	var weekCharacters:Array<Dynamic> = [
 		['', 'bf', 'gf'],
-		['', 'bf', 'gf']
+		['ethen', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
@@ -299,23 +300,16 @@ class StoryMenuState extends MusicBeatState
 			PlayState.SONG = Song.loadFromJson(PlayState.storyPlaylist[0].toLowerCase() + diffic, PlayState.storyPlaylist[0].toLowerCase());
 			PlayState.storyWeek = curWeek;
 			PlayState.campaignScore = 0;
-			trace(curWeek);
 			new FlxTimer().start(1, function(tmr:FlxTimer)
-			{
-				if (curWeek == 1 && _kingsave.data.cutscenes == true)
-				{
-					trace("Come on load the video");
-					// LoadingState.loadAndSwitchState(new PlayState());
-					LoadingState.loadAndSwitchState(new VideoState("assets/videos/intro.webm", new PlayState()));
-				}
-				else
-				{
-					trace('Haha no :)');
-					LoadingState.loadAndSwitchState(new PlayState());
-				}
-			});
+                {
+                    //LoadingState.loadAndSwitchState(new PlayState(), true); //save this code for the cutsceneless build of the game
+                    var video:MP4Handler = new MP4Handler();
+					video.playMP4(Paths.video('intro'), new PlayState(), false, false, false);
+                });
 		}
+
 	}
+	
 
 	function changeDifficulty(change:Int = 0):Void
 	{
