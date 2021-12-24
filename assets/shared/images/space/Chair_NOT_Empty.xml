@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chair_NOT_Empty.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="The Chair Anim0000" x="0" y="0" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0001" x="576" y="0" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0002" x="1152" y="0" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0003" x="1152" y="0" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0004" x="0" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0005" x="0" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0006" x="576" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0007" x="576" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0008" x="1152" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0009" x="1152" y="580" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0010" x="0" y="1160" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0011" x="0" y="1160" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0012" x="576" y="1160" width="571" height="575"/>
+	<SubTexture name="The Chair Anim0013" x="576" y="1160" width="571" height="575"/>
+</TextureAtlas>
